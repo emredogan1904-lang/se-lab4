@@ -1,0 +1,4 @@
+# Test alternating between primary and secondary stores
+GT4500,5,0,5,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
